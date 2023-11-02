@@ -1,3 +1,5 @@
+![front image](/assets/RecycleRight.png)
+
 # RecycleRight
 ♻️ Inspiring eco-consciousness in students through waste classification and educational resources
 
